@@ -20,7 +20,7 @@ Seltzer 1        Seltzer 4        Tesla 3          Tesla 1
 Seltzer 2        Seltzer 4        Tesla 3          Tesla 1
 ```
 
-Any of these combos will destroy all four cogs. Note that the order of zap gags used is important, and the calculator expects the gags to be used in **left to right order**. For example, `Seltzer 2        Seltzer 4        Tesla 3          Tesla 1` requires that the Tesla on the 3rd cog happens **first**, implying no cross.
+Any of these combos will destroy all four cogs. The number represents the target cog's location, where 1 is the far left cog, 2 is the next one to the right, etc. Note that the order of zap gags used is important, and the calculator expects the gags to be used in **left to right order**. For example, `Seltzer 2        Seltzer 4        Tesla 3          Tesla 1` requires that the Tesla on the 3rd cog happens **first**, implying no cross.
 
 ### Specifying HPs
 
